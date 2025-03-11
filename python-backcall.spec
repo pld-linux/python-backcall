@@ -8,7 +8,7 @@ Summary:	Specifications for callback functions passed in to an API
 Summary(pl.UTF-8):	Specyfikacje funkcji wywołań zwrotnych przekazywane do API
 Name:		python-backcall
 Version:	0.1.0
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/backcall/
